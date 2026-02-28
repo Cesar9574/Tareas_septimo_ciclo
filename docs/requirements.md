@@ -1,7 +1,7 @@
 ```markdown
 # Requerimientos y Backlog: HealthTrack Connect
 
-**Link al Tablero de Gestión:** [INSERTAR_LINK_AQUÍ]
+**Link al Tablero de Gestión:** [https://github.com/users/Cesar9574/projects/1/views/2]
 
 ## 1. Historias de Usuario (Backlog)
 
